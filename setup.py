@@ -7,5 +7,5 @@ setup(
     version="0.1",
     license="BSD",
     packages=['webcount', 'test'],
-    requires=['requests']
+    requires=['requests'],
 )
